@@ -56,6 +56,6 @@ For witnessing the internal working of the Pre-Trained Convolutional Neural Netw
 
 # Contributors
 
-1. [Ronak Singhvi](https://github.com/ronak-7228)
+1. [Ronak Singhvi (me)](https://github.com/ronak-7228)
 2. [Misaal Khan](https://www.linkedin.com/in/misaalkhan/)
-3. [Kwanit Gupta (me)](https://github.com/kwanit1142)
+3. [Kwanit Gupta](https://github.com/kwanit1142)
